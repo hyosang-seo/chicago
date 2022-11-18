@@ -10,7 +10,7 @@
 
 
 .main_img{
-    /* border: 1px dashed red; */
+    border: 1px dashed red;
     width: 580px;
     height: 150px;
     margin-bottom: 30px;
@@ -18,7 +18,7 @@
     margin-left:auto;
     margin-right:auto;
     padding-bottom: 10px;
-    background-image:url('./src/main.jpg');
+    /* background-image:url('./src/main.jpg'); */
     background-size : contain;
     background-repeat: no-repeat;
 
