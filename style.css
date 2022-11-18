@@ -1,0 +1,9 @@
+.text_box{
+    /* background-color: white; */
+    border: 1px dashed red;
+    width: 570px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+
+    padding-bottom: 10px;
+}
