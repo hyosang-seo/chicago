@@ -26,8 +26,10 @@
 
 .pading_30{
     padding-top: 30px;
-    /* width: 100%; */
     /* object-fit: cover; */
-    max-width: 100%;
-    height: auto;
+    max-width: 760px;
+    width: 100%;
+    max-width: 760px;
+    vertical-align: middle;
+
 }
