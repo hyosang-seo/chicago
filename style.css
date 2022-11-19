@@ -26,6 +26,8 @@
 
 .pading_30{
     padding-top: 30px;
-    width: 100%;
+    /* width: 100%; */
     /* object-fit: cover; */
+    max-width: 100%;
+    height: auto;
 }
