@@ -33,3 +33,17 @@
     vertical-align: middle;
 
 }
+
+button{
+
+        background-color: red;
+        border: none;
+        color: white;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 30px;
+        margin: 40px 20px;
+        padding: 10px 20px;
+        cursor: pointer;
+}
